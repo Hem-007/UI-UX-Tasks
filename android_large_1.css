@@ -5,7 +5,7 @@
   height: 33px;
 }
 .android-large-1 .rectangle-11 {
-  background: url('../assets/images/ellipse_44.jpeg') 50% / cover no-repeat;
+  background: url('assets/images/ellipse_44.jpeg') 50% / cover no-repeat;
   position: absolute;
   left: 11.7px;
   right: 0px;
@@ -13,7 +13,7 @@
   height: 271px;
 }
 .android-large-1 .rectangle-101 {
-  background: url('../assets/images/rectangle_10.jpeg') 50% / cover no-repeat;
+  background: url('assets/images/rectangle_10.jpeg') 50% / cover no-repeat;
   position: absolute;
   left: 0px;
   top: 37px;
