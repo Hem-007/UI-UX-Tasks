@@ -1,0 +1,1341 @@
+.insta-home-page .notification {
+  background: #D9D9D9;
+  margin-bottom: 15px;
+  width: 366px;
+  height: 33px;
+}
+.insta-home-page .vector-10 {
+  margin: 0 1.8px 6.4px 0;
+  width: 5.9px;
+  height: 20.2px;
+}
+.insta-home-page .vector-11 {
+  margin-top: 0px;
+  width: 67.3px;
+  height: 26.6px;
+}
+.insta-home-page .instaname {
+  display: flex;
+  flex-direction: row;
+  width: 75px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-9 {
+  width: 21px;
+  height: 18px;
+}
+.insta-home-page .notificationicon {
+  margin: 4px 0 4.6px 0;
+  display: flex;
+  width: 21px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.insta-home-page .messageicon {
+  margin: 5px 0 4.7px 0;
+  width: 19px;
+  height: 16.9px;
+}
+.insta-home-page .insta-header {
+  margin: 0 28px 4.4px 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 49px);
+  box-sizing: border-box;
+}
+.insta-home-page .your-story {
+  margin: 0 6px 6px 0;
+  display: inline-block;
+  width: 50px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-1 {
+  margin-right: 19.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .container-8 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.insta-home-page .user-name-3 {
+  margin: 2px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-4 {
+  margin: 4px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-5 {
+  margin: 4px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-6 {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-7 {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-8 {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .user-name-9 {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .users-names {
+  position: absolute;
+  right: -507.7px;
+  bottom: -3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 842px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-4 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_9.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  height: 65px;
+}
+.insta-home-page .ellipse-61 {
+  border-radius: 9.5px;
+  background: #0BA2F7;
+  position: absolute;
+  top: 50px;
+  right: 4px;
+  width: 19px;
+  height: 19px;
+}
+.insta-home-page .container-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+.insta-home-page .add-icon {
+  position: relative;
+  display: flex;
+  padding: 50.5px 9px 6.5px 9px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .story-bar {
+  position: relative;
+  margin: 2px 14px 0 0;
+  width: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-41 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_48.png') 50% / cover no-repeat;
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-51 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-1 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-42 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_45.png');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-52 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-2 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-43 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_47.png');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-53 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-3 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-44 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_42.png');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-54 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-4 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-45 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_43.jpeg');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-55 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-5 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-46 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_46.jpeg');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-56 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-6 {
+  position: relative;
+  margin: 2px 14px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-47 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_41.png');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-57 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-7 {
+  position: relative;
+  margin: 2px 17px 0 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-48 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_4.png');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-58 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-8 {
+  position: relative;
+  margin: 0 11px 2px 0;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .ellipse-49 {
+  border-radius: 32.5px;
+  background: url('../assets/images/ellipse_44.jpeg');
+  position: relative;
+  width: 65px;
+  height: 65px;
+}
+.insta-home-page .ellipse-59 {
+  border-radius: 36.5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.insta-home-page .story-bar-9 {
+  position: relative;
+  margin-top: 2px;
+  display: flex;
+  padding: 4px;
+  width: 69px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .story-bars-content {
+  position: absolute;
+  top: 0px;
+  right: -508px;
+  display: flex;
+  flex-direction: row;
+  width: 852px;
+  height: 69px;
+  box-sizing: border-box;
+}
+.insta-home-page .story-view-frame {
+  position: relative;
+  margin-bottom: 9px;
+  width: 360px;
+  height: 90px;
+}
+.insta-home-page .rectangle-9 {
+  background: url('../assets/images/ellipse_44.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 37px;
+  right: 0px;
+  height: 271px;
+}
+.insta-home-page .ellipse-7 {
+  border-radius: 14px;
+  background: url('../assets/images/ellipse_44.jpeg');
+  width: 28px;
+  height: 28px;
+}
+.insta-home-page .container-18 {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 2px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.insta-home-page .deadpool-and-wolverine {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .post-profile {
+  margin: 0 1.9px 264px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-13 {
+  width: 22.7px;
+  height: 19.7px;
+}
+.insta-home-page .heart-35101 {
+  margin: 1.6px 19.3px 1.4px 0;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-14 {
+  width: 22.7px;
+  height: 22.7px;
+}
+.insta-home-page .instagram-comment-134161 {
+  margin-right: 18.3px;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .group-1 {
+  width: 22.7px;
+  height: 20.3px;
+}
+.insta-home-page .instagram-share-134231 {
+  margin: 1.2px 0;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .three-icons {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: 106px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-12 {
+  width: 16.1px;
+  height: 19.8px;
+}
+.insta-home-page .save-icon {
+  margin-top: 6px;
+  display: flex;
+  width: 23px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.insta-home-page .post-icons {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.insta-home-page .container {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.container-sub92 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.333;
+  color: #448BB2;
+}
+.container-sub89 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.container {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #878787;
+}
+.insta-home-page .container-11 {
+  position: relative;
+  margin-bottom: 0.1px;
+  display: flex;
+  padding: 0 0 4.9px 19.3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page .mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments {
+  margin: 0 0 3px 2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-sub24 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #828282;
+}
+.insta-home-page .ellipse-91 {
+  border-radius: 14px;
+  background: url('../assets/images/ellipse_9.jpeg');
+  width: 28px;
+  height: 28px;
+}
+.insta-home-page .container-4 {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 2px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.insta-home-page .add-acomment {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8E8E8E;
+}
+.insta-home-page .container-16 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .hours-ago {
+  margin: 0 2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8F8F8F;
+}
+.insta-home-page .post-description {
+  margin: 0 12.9px 0 2.9px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 15.8px);
+  box-sizing: border-box;
+}
+.insta-home-page .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .insta-post {
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;
+  padding: 0 19.4px 0 12.1px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page .rectangle-11 {
+  background: url('../assets/images/ellipse_44.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 11.7px;
+  right: 0px;
+  bottom: 166px;
+  height: 271px;
+}
+.insta-home-page .rectangle-101 {
+  background: url('../assets/images/rectangle_10.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 37px;
+  right: 0px;
+  height: 271px;
+}
+.insta-home-page .container-15 {
+  margin-right: 7.8px;
+  width: 31.3px;
+  height: 32px;
+}
+.insta-home-page .deadpool-and-wolverine-3 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .post-profile-3 {
+  margin: 0 1.8px 264px 1.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-28 {
+  width: 22.2px;
+  height: 19.7px;
+}
+.insta-home-page .heart-351013 {
+  margin: 1.6px 18.9px 1.4px 0;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-29 {
+  width: 22.2px;
+  height: 22.7px;
+}
+.insta-home-page .instagram-comment-1341613 {
+  margin-right: 17.9px;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .group-4 {
+  width: 22.2px;
+  height: 20.3px;
+}
+.insta-home-page .instagram-share-1342313 {
+  margin: 1.2px 0;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .three-icons-3 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: 103.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-27 {
+  width: 15.8px;
+  height: 19.8px;
+}
+.insta-home-page .save-icon-3 {
+  margin-top: 6px;
+  display: flex;
+  width: 22.5px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.insta-home-page .post-icons-3 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.insta-home-page .container-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.container-4-sub92 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.333;
+  color: #448BB2;
+}
+.container-4-sub89 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.container-4 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #878787;
+}
+.insta-home-page .container-12 {
+  position: relative;
+  margin-bottom: 0.1px;
+  display: flex;
+  padding: 0 0 4.9px 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page .mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-3 {
+  margin: 0 0 3px 2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-3-sub24 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-3 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #828282;
+}
+.insta-home-page .container-7 {
+  margin-right: 7.8px;
+  width: 31.3px;
+  height: 32px;
+}
+.insta-home-page .add-acomment-3 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8E8E8E;
+}
+.insta-home-page .container-9 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .hours-ago-3 {
+  margin: 0 2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8F8F8F;
+}
+.insta-home-page .post-description-3 {
+  margin: 0 6px 0 2.8px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 8.8px);
+  box-sizing: border-box;
+}
+.insta-home-page .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .component-41 {
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  padding: 0 19px 0 11.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page .container-3 {
+  margin-right: 7.8px;
+  width: 31.3px;
+  height: 32px;
+}
+.insta-home-page .deadpool-and-wolverine-2 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .post-profile-2 {
+  margin: 0 25.4px 264px 25.4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-23 {
+  width: 22.2px;
+  height: 19.7px;
+}
+.insta-home-page .heart-351012 {
+  margin: 1.6px 18.9px 1.4px 0;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-24 {
+  width: 22.2px;
+  height: 22.7px;
+}
+.insta-home-page .instagram-comment-1341612 {
+  margin-right: 17.9px;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .group-3 {
+  width: 22.2px;
+  height: 20.3px;
+}
+.insta-home-page .instagram-share-1342312 {
+  margin: 1.2px 0;
+  display: flex;
+  width: 22.5px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .three-icons-2 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: 103.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-22 {
+  width: 15.8px;
+  height: 19.8px;
+}
+.insta-home-page .save-icon-2 {
+  margin-top: 6px;
+  display: flex;
+  width: 22.5px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.insta-home-page .post-icons-2 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.container-3-sub89 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.container-3 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #878787;
+}
+.insta-home-page .container-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.container-3-sub92 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.333;
+  color: #448BB2;
+}
+.insta-home-page .container-5 {
+  position: relative;
+  margin: 0 7.3px 0.1px 23.6px;
+  display: flex;
+  padding: 0 0 4.9px 20px;
+  width: calc(100% - 30.9px);
+  box-sizing: border-box;
+}
+.insta-home-page .mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-2 {
+  margin: 0 0 3px 2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-2-sub24 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #828282;
+}
+.insta-home-page .container-20 {
+  margin-right: 7.8px;
+  width: 31.3px;
+  height: 32px;
+}
+.insta-home-page .add-acomment-2 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8E8E8E;
+}
+.insta-home-page .container-13 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .hours-ago-2 {
+  margin: 0 2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8F8F8F;
+}
+.insta-home-page .post-description-2 {
+  margin: 0 13.3px 0 26.4px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 39.7px);
+  box-sizing: border-box;
+}
+.insta-home-page .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .component-5 {
+  position: relative;
+  margin: 0 8px 35px 0;
+  display: flex;
+  padding-right: 11.7px;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.insta-home-page .rectangle-10 {
+  background: url('../assets/images/ellipse_44.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 37px;
+  right: 0px;
+  height: 271px;
+}
+.insta-home-page .ellipse-71 {
+  border-radius: 14px;
+  background: url('../assets/images/ellipse_44.jpeg');
+  width: 28px;
+  height: 28px;
+}
+.insta-home-page .container-14 {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 2px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.insta-home-page .deadpool-and-wolverine-1 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.insta-home-page .post-profile-1 {
+  margin: 0 1.9px 264px 1.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-18 {
+  width: 22.7px;
+  height: 19.7px;
+}
+.insta-home-page .heart-351011 {
+  margin: 1.6px 19.3px 1.4px 0;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-19 {
+  width: 22.7px;
+  height: 22.7px;
+}
+.insta-home-page .instagram-comment-1341611 {
+  margin-right: 18.3px;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .group-2 {
+  width: 22.7px;
+  height: 20.3px;
+}
+.insta-home-page .instagram-share-1342311 {
+  margin: 1.2px 0;
+  display: flex;
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+}
+.insta-home-page .three-icons-1 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  width: 106px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .vector-17 {
+  width: 16.1px;
+  height: 19.8px;
+}
+.insta-home-page .save-icon-1 {
+  margin-top: 6px;
+  display: flex;
+  width: 23px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.insta-home-page .post-icons-1 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.insta-home-page .container-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.container-2-sub92 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.333;
+  color: #448BB2;
+}
+.container-2-sub89 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.container-2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #878787;
+}
+.insta-home-page .container-10 {
+  position: relative;
+  margin-bottom: 0.1px;
+  display: flex;
+  padding: 0 0 4.9px 19.3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page .mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-1 {
+  margin: 0 0 3px 2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-1-sub24 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.mlikes-deadpool-and-wolverine-today-is-deadpools-birthday-click-our-link-to-see-all-deadpool-movies-view-all-53-kcomments-1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #828282;
+}
+.insta-home-page .ellipse-92 {
+  border-radius: 14px;
+  background: url('../assets/images/ellipse_9.jpeg');
+  width: 28px;
+  height: 28px;
+}
+.insta-home-page .container-2 {
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 2px;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.insta-home-page .add-acomment-1 {
+  margin: 9px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8E8E8E;
+}
+.insta-home-page .container-19 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .hours-ago-1 {
+  margin: 0 2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8F8F8F;
+}
+.insta-home-page .post-description-1 {
+  margin: 0 12.9px 0 2.9px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 15.8px);
+  box-sizing: border-box;
+}
+.insta-home-page .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.insta-home-page .component-4 {
+  position: relative;
+  margin-left: 12px;
+  display: flex;
+  padding: 0 19.4px 0 12.1px;
+  width: calc(100% - 12px);
+  box-sizing: border-box;
+}
+.insta-home-page .otherpost {
+  margin-bottom: 227px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 372px;
+  box-sizing: border-box;
+}
+.insta-home-page .vector {
+  margin: 0.8px 0 5.7px 0;
+  width: 23.7px;
+  height: 23.3px;
+}
+.insta-home-page .search-normal-2 {
+  margin: 2.8px 0 3px 0;
+  width: 24px;
+  height: 24px;
+}
+.insta-home-page .icon {
+  width: 25.5px;
+  height: 25.5px;
+}
+.insta-home-page .plus-square {
+  margin-bottom: 4.3px;
+  display: flex;
+  width: 34px;
+  height: 34px;
+  box-sizing: border-box;
+}
+.insta-home-page .group {
+  margin: 2.8px 0 5.8px 0;
+  width: 21.7px;
+  height: 21.2px;
+}
+.insta-home-page .ellipse-9 {
+  border-radius: 14px;
+  background: url('../assets/images/ellipse_9.jpeg');
+  margin-top: 1.8px;
+  width: 28px;
+  height: 28px;
+}
+.insta-home-page .footer {
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11.3px 24px 8px 28px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.insta-home-page {
+  background: #000000;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
